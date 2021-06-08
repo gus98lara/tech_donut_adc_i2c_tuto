@@ -1,0 +1,17 @@
+--Gustavo Lara Castillo
+
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+USE IEEE.STD_LOGIC_ARITH.ALL;
+USE IEEE.STD_LOGIC_UNSIGNED.ALL;
+
+
+Entity adc_try4 is
+	Port(
+		--Clock
+		clk : IN STD_LOGIC;
+		S:		out STD_LOGIC_VECTOR(11 downto 0)	
+	);
+END adc_try4;
+
+

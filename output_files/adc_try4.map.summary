@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Tue Jun 08 00:45:11 2021
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : adc_try4
+Top-level Entity Name : adc_try4
+Family : MAX 10
+Total logic elements : 410
+    Total combinational functions : 360
+    Dedicated logic registers : 207
+Total registers : 207
+Total pins : 36
+Total virtual pins : 0
+Total memory bits : 768
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
+UFM blocks : 0
+ADC blocks : 1

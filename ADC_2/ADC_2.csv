@@ -1,0 +1,17 @@
+# system info ADC_2 on 2021.06.07.16:24:41
+system_info:
+name,value
+DEVICE,10M50DAF484C7G
+DEVICE_FAMILY,MAX 10
+GENERATION_ID,1623101079
+#
+#
+# Files generated for ADC_2 on 2021.06.07.16:24:41
+files:
+filepath,kind,attributes,module,is_top
+simulation/ADC_2.vhd,VHDL,,ADC_2,true
+#
+# Map from instance-path to kind of module
+instances:
+instancePath,module
+ADC_2.adc_mega_0,ADC_2_adc_mega_0
